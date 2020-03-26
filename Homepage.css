@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+.container{ display: flex;
+    flex-direction: row;
+    justify-content: space-around;}
+.header{background-color: #f5fcfd;
+width: 100%;
+height: 160vh;
+overflow-x: hidden;}
+
+.Logo{ display: inline-block;
+width:9vw; 
+height: 10vh;
+background-color: #0f7bff;
+border-radius: 0 0 22px 22px;
+position: relative;
+margin-left: 7%;}
+
+.AppSon{
+    width: 131px; height: 33px;
+    display:block; 
+    color: #feffff;
+     font-family: Quicksand;
+    font-size: 3.6vh;
+    font-weight: 700;
+    line-height: 24px;
+padding: 2.4vh 0 0 1.8vw ;}
+.img{ width: 100vw;
+height: 100vh;
+position: absolute;}
+
+.Menu { 
+    display: inline-block;
+   width: 20vw;
+    height: 1.2%;
+    color: #929292;
+    font-family: Quicksand;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 27px;
+    word-spacing:1vw;
+    text-transform: uppercase;
+    margin-top: 3.93vh;
+margin-left: 36%;
+position: relative;
+text-decoration: none; }
+    #a1{ color: #0f7bff;
+     } 
+a:visited {color: #929292;
+    text-decoration: none;}
+     
+    .bg{width: 8.6vw;
+        height: 4.8vh;
+         border-radius: 25px;
+        background-color: #0063dd;
+        margin-top: 2.8vh;
+        margin-right: 5vw;
+        position: relative;
+        border: 0 ;
+        color:#ffffff;
+        font-family: Quicksand;
+        font-size: 1.8vh;
+         font-weight: 500;
+         line-height: 4.8vh;
+         }
+   
+
+.title{
+    width: 30%;
+    height: 3.4%;
+     color: #333333;
+     font-family: Quicksand;
+     font-size: 26px;
+     font-weight: 700;
+    line-height: 16px;
+    margin-left: auto;
+    margin-right: auto;
+     position: relative;
+    padding-bottom: 3vh;
+    margin-top: 8vh;
+    text-align: center;
+}
+
+.text{
+    width: 36%;
+     height: 6.7%;
+     color: #929292;
+     font-family: Quicksand;
+     font-size: 14px;
+    font-weight: 400;
+    line-height: 23px;
+    margin-left: auto;
+    margin-right: auto;
+text-align:center;
+position: relative;
+padding-bottom: 3.5vh;}
+
+.buttonflex{display: flex;
+    flex-direction: row;}
+ .btn1{
+     width: 8.6vw;
+     height: 4.8vh;
+     border-radius: 25px;
+     background-color: #0f7bff;
+    margin-left: 40.6vw;
+    position: relative;
+    border: 0;
+    color: #ffffff;
+    font-family: Quicksand;
+    font-weight: 700;
+    line-height: 27px;   }
+ 
+     .btn2{width: 8.6vw;
+ height: 4.8vh;
+        border-radius: 25px;
+         border: 2px solid #0f7bff;
+         position: relative;
+         color: #0f7bff;
+         font-family: Quicksand;
+         font-weight: 700;
+         line-height: 27px;
+        margin-left: 1.56vw;}  
+
+ .device{display: flex;
+    flex-direction: row;
+    }
+
+ .device1{
+     position: relative; 
+    width: 12vw;
+    height: 47vh;
+    box-shadow: 0 0 62px rgba(142, 142, 142, 0.44);
+    border-radius: 25px;
+    margin-left: 30vw;
+    margin-top: 10vh;}  
+          
+.screen1{
+   width: 12vw;
+ height: 47vh;}
+
+
+.device2{
+     position: relative; 
+     width: 16.3vw;
+ height: 52vh;
+     box-shadow: 0 0 62px rgba(142, 142, 142, 0.44);
+   border-radius: 25px;
+   margin-top: 5vh;}  
+
+ .screen2{
+   width: 16.3vw;
+   height: 52vh;} 
+   
+ .device3{
+    position: relative; 
+   width: 12vw;
+   height: 47vh;
+   box-shadow: 0 0 62px rgba(142, 142, 142, 0.44);
+   border-radius: 25px;
+   margin-top: 10vh;}  
+         
+.screen3{
+  width: 12vw;
+height: 47vh;}
